@@ -12,5 +12,6 @@ I am currently on an intensive journey to bridge the gap between Data Analysis a
 - High-performance blog with AI summarization.
 
 - AI Data Insight Analyser (https://github.com/DipenChimariya/DataPurify-AI)
+- LIVE Streamlit app link - https://datapurify-ai-6awpqgbkysazozghegfnvn.streamlit.app/
 * EDA & Intelligent Reporting.
 > A tool that Cleans dataset,transforms raw datasets into visual dashboards and AI-generated executive summaries.
