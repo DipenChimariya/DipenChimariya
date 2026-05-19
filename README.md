@@ -8,8 +8,9 @@ I am currently on an intensive journey to bridge the gap between Data Analysis a
 ---
 
 ## 🛠️ Featured Projects
-- FastAPI Blog Engine(https://github.com/DipenChimariya/fast_api_blog)
 - High-performance blog with AI summarization.
+- FastAPI Blog Engine(https://github.com/DipenChimariya/fast_api_blog)
+- AI-powered audit assistant for invoice processing, VAT validation, and audit workflow automation.
 
 - AI Data Insight Analyser (https://github.com/DipenChimariya/DataPurify-AI)
 - LIVE Streamlit app link - https://data-purify-ai-insight-analyzer.streamlit.app/
