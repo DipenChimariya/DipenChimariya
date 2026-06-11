@@ -3,7 +3,7 @@
 Mastering the Modern Backend
 I am currently on an intensive journey to bridge the gap between Data Analysis and Production-grade Backend Engineering. 
 
-- **Current Focus:** FastAPI & Scalable Architecture
+- **Current Focus:** FastAPI, Scalable Architecture,Agentic AI
 - **Tech Stack:** Python | PostgreSQL | Pandas |  Langchain | Docker
 ---
 
